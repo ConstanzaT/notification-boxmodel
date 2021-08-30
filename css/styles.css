@@ -3,6 +3,7 @@ body{
     background-color:#cccccc;
     font-family: 'Montserrat', sans-serif;
     color:#333333;
+
 }
 a{
     text-decoration: none;
@@ -16,6 +17,7 @@ a{
     padding:50px;
     background-color:white;
     border-radius:5px;
+
 
 }
 
@@ -32,4 +34,5 @@ a{
 }
 p{
     font-weight: normal;
+    font-size: 14px;
 }
